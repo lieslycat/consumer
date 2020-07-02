@@ -14,5 +14,4 @@ func main() {
 				Name: "xxx",
 		}
 		test(s)
-
 }
